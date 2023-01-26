@@ -1,5 +1,5 @@
 # Android Python Science
-How to install various python science packages: numpy, pandas, astropy, and juypter notebook in termux on android (From the F-Droid store [here](https://f-droid.org/en/packages/com.termux/)) as of January 2023.
+How to install various python science packages: numpy, pandas, astropy, and jupyter notebook in termux on android (From the F-Droid store [here](https://f-droid.org/en/packages/com.termux/)) as of January 2023.
 
 ## Motivation
 Most of the information I have seen on the internet on how to get these packages inside of termux on android is out of date as both termux and these packages have changed quite a bit over the last decade. While [Pydroid 3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&hl=en_US&gl=US&pli=1) does provide python on android; I perfer being able to use python with other termux apps and scripts. 
