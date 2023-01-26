@@ -1,4 +1,4 @@
-# Android Python Science
+# Termux Science
 How to install various python science packages: numpy, pandas, astropy, and jupyter notebook in termux on android (From the F-Droid store [here](https://f-droid.org/en/packages/com.termux/)) as of January 2023.
 
 ## Motivation
